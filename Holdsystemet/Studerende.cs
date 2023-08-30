@@ -53,7 +53,7 @@ namespace Holdsystemet
                 {
                     // Console.WriteLine("Navn skal være mindst 2 tegn langt.");
                     //Opgaven vil gerne have en throw Exception i stedet: 
-                    throw new ArgumentException("Navn skal være mindst 2 tegn lamgt.");
+                    throw new ArgumentException("Navn skal være mindst 2 tegn langt.");
                 }
             }
         }
